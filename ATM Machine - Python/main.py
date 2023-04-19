@@ -45,7 +45,7 @@ if name in user_name:
                 print("Your updated balance is", detail[name]['balance'])
 
             elif option == 4:
-                print("Thanks for using our firm")
+                print("Thanks for using our firm!")
                 break
             else:
                 print('Requested option is not available!')
